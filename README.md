@@ -4,7 +4,7 @@
 ### Author: Abbey Masters
 
 ### Links and Resources
-* [submission PR]()
+* [submission PR](https://github.com/abbeymasters/lab-06/pull/1)
 * [travis]()
 
 #### Running the app
