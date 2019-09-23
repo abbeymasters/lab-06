@@ -4,9 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "jest --verbose",
-    "test-watch": "jest --verbose --watchAll"
+    "start": "node index.js",
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'",
+    "test-watch": "jest --watchAll --verbose --coverage",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
   },
   "keywords": [],
   "author": "",
