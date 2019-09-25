@@ -33,6 +33,8 @@
   },
   "jest": {
     "testEnvironment": "node",
-    "setupFilesAfterEnv": ["<rootDir>/e2e/setup.js"]
+    "setupFilesAfterEnv": [
+      "<rootDir>/e2e/setup.js"
+    ]
   }
 }
