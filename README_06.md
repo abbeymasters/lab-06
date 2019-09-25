@@ -1,3 +1,5 @@
+// Scroll down for Lab 08 //
+
 # LAB - 06
 
 ## Mongoose ORM
@@ -13,13 +15,5 @@ Commands:
     "test": "jest --verbose",
     "test-watch": "jest --verbose --watchAll"
   
-# LAB - 08
-
-##
-
-### Links and Resources
-* [submission PR] ()
-* [travis] ()
-* [heroku] (https://book-api-akm.herokuapp.com/api/book)
 
 
