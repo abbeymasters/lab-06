@@ -20,6 +20,6 @@ Commands:
 ### Links and Resources
 * [submission PR] ()
 * [travis] ()
-* [heroku] (https://book-api-akm.herokuapp.com/)
+* [heroku] (https://book-api-akm.herokuapp.com/api/book)
 
 

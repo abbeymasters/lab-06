@@ -5,7 +5,7 @@ describe('book app api', () => {
   it('checking if working', () => {
     return request
       .get('/hello')
-      expect(200)
+      .expect(200)
       .then(res => {
         expect(res.text).toBe('hello express');
       });

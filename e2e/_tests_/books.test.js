@@ -119,6 +119,6 @@ describe('books api', () => {
           .delete(`/api/book/${book._id}`)
           .expect(200);
       });
-  })
+  });
 
-})
+});
