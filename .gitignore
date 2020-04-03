@@ -4,6 +4,7 @@ db
 temp 
 data
 .env 
+node_modules
 *.env
 
 ### Vim ###

@@ -1,3 +1,5 @@
+// Scroll down for Lab 08 //
+
 # LAB - 06
 
 ## Mongoose ORM
@@ -13,6 +15,5 @@ Commands:
     "test": "jest --verbose",
     "test-watch": "jest --verbose --watchAll"
   
-
 
 
